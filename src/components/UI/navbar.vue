@@ -7,7 +7,12 @@
  
    
  <nav class="bg-green-800 text-white px-8 py-4 flex items-center justify-between shadow-ig">
+  <!-- logo -->
+   <div class="flex items-start justify-start gap-4">
+    <img src="/src/assets/Logo1.jpg" alt="Logo" class="h-10 w-10">
+  
     <h4 class="flex items-start justify-start font-bold text-lg text-white">TEMBERA RWANDA</h4>
+  </div>
 
     <ul class="flex gap-8 text-sm font-medium w-full  justify-end">
       <li><router-link to="/home" class="hover:text-yellow-300">Home</router-link></li>
