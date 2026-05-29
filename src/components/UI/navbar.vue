@@ -15,7 +15,7 @@
   </div>
 
     <ul class="flex gap-8 text-sm font-medium w-full  justify-end">
-      <li><router-link to="/home" class="hover:text-yellow-300">Home</router-link></li>
+      <li><router-link to="/" class="hover:text-yellow-300">Home</router-link></li>
       <li><router-link to="/about" class="hover:text-yellow-300">About</router-link></li>
       <li><router-link to="/services" class="hover:text-yellow-300">Services</router-link></li>
       

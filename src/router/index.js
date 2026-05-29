@@ -9,7 +9,7 @@ import Home from '../views/Home.vue';
 
 
 const routes =[
-    {path:'/home', name:'Home', component:Home},
+    {path:'/', name:'Home', component:Home},
     {path:'/about',name:'About', component:About},
     {path:'/Gallery',name:'Gallery', component:Gallery},
     {path:'/Destination',name:'Destination', component:Destination},
