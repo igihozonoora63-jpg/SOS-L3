@@ -39,6 +39,15 @@
       </ul>
     </li>
     <li><router-link to="/contact" class="hover:text-yellow-300">Contact</router-link></li>
+
+    <li class="relative group">
+      <router-link to='/languages' class="hover:text-yellow-300">Languages V</router-link>
+      <ul class="invisible group-hover:visible opacity-0 group-hover:opacity-100 absolute bg-white text-green-900 rounded shadow w-48 left-0 z-50">
+        <li><a href="#" class="block px-4 py-2 hover:bg-green-200 text-green-900">Kinyarwanda</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-green-200 text-green-900">English</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-green-200 text-green-900">French</a></li>
+      </ul>
+    </li>
       
     </ul>
  </nav>
