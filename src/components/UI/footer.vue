@@ -1,5 +1,5 @@
 <template>
-    <footer class="bg-green-800 text-white px-8 py-10 mt-10">
+    <footer class=" w-full bg-green-800 text-white  mt-10">
         
         <div class="flex flex-wrap justify-between gap-8">
             <!-- this is the footer -->
